@@ -2,14 +2,22 @@ import os
 import yaml
 import joblib
 import pandas as pd
+import os
+import datetime
 
 def load_data(source_file):
     data = pd.read_csv(source_file)
     return data
 
-def create_directory(directory):
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+def create_directory():
+    current_time = datetime.datetime.now()
+    timestamp = current_time.strftime("%Y-%m-%d_%H-%M-%S")
+    directory_name = f"run_{timestamp}"
+
+    directory_path = os.path.join('runs', directory_name)
+    if not os.path.exists(directory_path):
+        os.makedirs(directory_path)
+    return directory_path
 
 def safe_data_to_directory(data,directory='/',fname='training.csv'):
     path = os.path.join(directory, fname)
