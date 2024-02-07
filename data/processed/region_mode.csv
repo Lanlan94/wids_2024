@@ -1,0 +1,721 @@
+patient_zip3,Region_grouped,Division_grouped,patient_state_grouped,num
+999,West,Pacific,AK,1
+998,West,Pacific,AK,1
+996,West,Pacific,AK,2
+995,West,Pacific,AK,1
+993,West,Pacific,WA,4
+992,West,Pacific,WA,11
+991,West,Pacific,WA,6
+990,West,Pacific,WA,4
+989,West,Pacific,WA,1
+988,West,Pacific,WA,7
+986,West,Pacific,WA,7
+985,West,Pacific,WA,5
+984,West,Pacific,WA,9
+983,West,Pacific,WA,15
+982,West,Pacific,WA,26
+981,West,Pacific,WA,22
+980,West,Pacific,WA,39
+978,West,Pacific,OR,2
+976,West,Pacific,OR,1
+975,West,Pacific,OR,9
+974,West,Pacific,OR,16
+973,West,Pacific,OR,8
+972,West,Pacific,OR,14
+971,West,Pacific,OR,8
+970,West,Pacific,OR,9
+968,West,Pacific,HI,4
+967,West,Pacific,HI,10
+961,West,Pacific,CA,3
+960,West,Pacific,CA,14
+959,West,Pacific,CA,29
+958,West,Pacific,CA,31
+957,West,Pacific,CA,9
+956,West,Pacific,CA,41
+955,West,Pacific,CA,8
+954,West,Pacific,CA,15
+953,West,Pacific,CA,36
+952,West,Pacific,CA,19
+951,West,Pacific,CA,24
+950,West,Pacific,CA,42
+949,West,Pacific,CA,16
+948,West,Pacific,CA,3
+947,West,Pacific,CA,1
+946,West,Pacific,CA,17
+945,West,Pacific,CA,56
+944,West,Pacific,CA,2
+943,West,Pacific,CA,4
+941,West,Pacific,CA,32
+940,West,Pacific,CA,26
+939,West,Pacific,CA,21
+937,West,Pacific,CA,20
+936,West,Pacific,CA,27
+935,West,Pacific,CA,27
+934,West,Pacific,CA,25
+933,West,Pacific,CA,20
+932,West,Pacific,CA,31
+931,West,Pacific,CA,12
+930,West,Pacific,CA,31
+928,West,Pacific,CA,74
+927,West,Pacific,CA,26
+926,West,Pacific,CA,95
+925,West,Pacific,CA,63
+924,West,Pacific,CA,14
+923,West,Pacific,CA,81
+922,West,Pacific,CA,39
+921,West,Pacific,CA,34
+920,West,Pacific,CA,67
+919,West,Pacific,CA,18
+918,West,Pacific,CA,10
+917,West,Pacific,CA,133
+916,West,Pacific,CA,14
+915,West,Pacific,CA,8
+914,West,Pacific,CA,17
+913,West,Pacific,CA,99
+912,West,Pacific,CA,25
+911,West,Pacific,CA,17
+910,West,Pacific,CA,29
+908,West,Pacific,CA,30
+907,West,Pacific,CA,55
+906,West,Pacific,CA,58
+905,West,Pacific,CA,14
+904,West,Pacific,CA,3
+903,West,Pacific,CA,4
+902,West,Pacific,CA,92
+900,West,Pacific,CA,193
+895,West,Mountain,NV,6
+894,West,Mountain,NV,9
+891,West,Mountain,NV,24
+890,West,Mountain,NV,11
+883,West,Mountain,NM,4
+882,West,Mountain,NM,9
+881,West,Mountain,NM,1
+880,West,Mountain,NM,11
+877,West,Mountain,NM,5
+875,West,Mountain,NM,17
+874,West,Mountain,NM,3
+873,West,Mountain,NM,2
+871,West,Mountain,NM,42
+870,West,Mountain,NM,14
+864,West,Mountain,AZ,1
+863,West,Mountain,AZ,5
+860,West,Mountain,AZ,1
+859,West,Mountain,AZ,2
+857,West,Mountain,AZ,32
+856,West,Mountain,AZ,10
+855,West,Mountain,AZ,1
+853,West,Mountain,AZ,40
+852,West,Mountain,AZ,47
+851,West,Mountain,AZ,9
+850,West,Mountain,AZ,37
+847,West,Mountain,UT,3
+846,West,Mountain,UT,3
+844,West,Mountain,UT,4
+841,West,Mountain,UT,9
+840,West,Mountain,UT,9
+838,West,Mountain,ID,9
+837,West,Mountain,ID,13
+836,West,Mountain,ID,22
+835,West,Mountain,ID,1
+834,West,Mountain,ID,9
+833,West,Mountain,ID,6
+832,West,Mountain,ID,6
+827,West,Mountain,WY,1
+826,West,Mountain,WY,1
+816,West,Mountain,CO,6
+815,West,Mountain,CO,13
+814,West,Mountain,CO,6
+813,West,Mountain,CO,3
+812,West,Mountain,CO,2
+811,West,Mountain,CO,3
+810,West,Mountain,CO,6
+809,West,Mountain,CO,26
+808,West,Mountain,CO,8
+806,West,Mountain,CO,9
+805,West,Mountain,CO,20
+804,West,Mountain,CO,14
+803,West,Mountain,CO,8
+802,West,Mountain,CO,61
+801,West,Mountain,CO,49
+800,West,Mountain,CO,51
+799,South,West South Central,TX,28
+798,South,West South Central,TX,7
+797,South,West South Central,TX,17
+796,South,West South Central,TX,2
+795,South,West South Central,TX,2
+794,South,West South Central,TX,21
+793,South,West South Central,TX,13
+792,South,West South Central,TX,1
+791,South,West South Central,TX,17
+790,South,West South Central,TX,12
+789,South,West South Central,TX,4
+788,South,West South Central,TX,5
+787,South,West South Central,TX,32
+786,South,West South Central,TX,23
+785,South,West South Central,TX,38
+784,South,West South Central,TX,12
+783,South,West South Central,TX,9
+782,South,West South Central,TX,63
+781,South,West South Central,TX,13
+780,South,West South Central,TX,19
+779,South,West South Central,TX,5
+778,South,West South Central,TX,14
+777,South,West South Central,TX,3
+776,South,West South Central,TX,6
+775,South,West South Central,TX,39
+774,South,West South Central,TX,42
+773,South,West South Central,TX,48
+772,South,West South Central,TX,1
+770,South,West South Central,TX,110
+769,South,West South Central,TX,5
+768,South,West South Central,TX,1
+767,South,West South Central,TX,5
+766,South,West South Central,TX,8
+765,South,West South Central,TX,8
+764,South,West South Central,TX,4
+763,South,West South Central,TX,8
+762,South,West South Central,TX,15
+761,South,West South Central,TX,32
+760,South,West South Central,TX,52
+759,South,West South Central,TX,9
+758,South,West South Central,TX,2
+757,South,West South Central,TX,9
+756,South,West South Central,TX,6
+755,South,West South Central,TX,6
+754,South,West South Central,TX,8
+752,South,West South Central,TX,36
+751,South,West South Central,TX,22
+750,South,West South Central,TX,77
+749,South,West South Central,OK,2
+748,South,West South Central,OK,4
+747,South,West South Central,OK,2
+746,South,West South Central,OK,2
+745,South,West South Central,OK,3
+744,South,West South Central,OK,4
+743,South,West South Central,OK,1
+741,South,West South Central,OK,6
+740,South,West South Central,OK,12
+738,South,West South Central,OK,1
+737,South,West South Central,OK,3
+735,South,West South Central,OK,1
+731,South,West South Central,OK,13
+730,South,West South Central,OK,17
+729,South,West South Central,AR,3
+728,South,West South Central,AR,1
+727,South,West South Central,AR,11
+726,South,West South Central,AR,2
+725,South,West South Central,AR,1
+723,South,West South Central,AR,7
+722,South,West South Central,AR,3
+721,South,West South Central,AR,5
+720,South,West South Central,AR,6
+719,South,West South Central,AR,4
+718,South,West South Central,AR,2
+716,South,West South Central,AR,4
+714,South,West South Central,LA,5
+713,South,West South Central,LA,4
+712,South,West South Central,LA,8
+711,South,West South Central,LA,7
+710,South,West South Central,LA,6
+708,South,West South Central,LA,6
+707,South,West South Central,LA,8
+706,South,West South Central,LA,9
+705,South,West South Central,LA,12
+704,South,West South Central,LA,13
+703,South,West South Central,LA,2
+701,South,West South Central,LA,19
+700,South,West South Central,LA,14
+693,Midwest,West North Central,NE,1
+691,Midwest,West North Central,NE,3
+689,Midwest,West North Central,NE,2
+687,Midwest,West North Central,NE,1
+686,Midwest,West North Central,NE,2
+685,Midwest,West North Central,NE,3
+684,Midwest,West North Central,NE,3
+681,Midwest,West North Central,NE,12
+680,Midwest,West North Central,NE,6
+679,Midwest,West North Central,KS,1
+678,Midwest,West North Central,KS,1
+675,Midwest,West North Central,KS,1
+672,Midwest,West North Central,KS,11
+671,Midwest,West North Central,KS,1
+670,Midwest,West North Central,KS,3
+666,Midwest,West North Central,KS,3
+665,Midwest,West North Central,KS,2
+664,Midwest,West North Central,KS,1
+662,Midwest,West North Central,KS,6
+661,Midwest,West North Central,KS,2
+660,Midwest,West North Central,KS,9
+658,Midwest,West North Central,MO,7
+657,Midwest,West North Central,MO,6
+656,Midwest,West North Central,MO,5
+655,Midwest,West North Central,MO,2
+654,Midwest,West North Central,MO,3
+652,Midwest,West North Central,MO,5
+651,Midwest,West North Central,MO,1
+650,Midwest,West North Central,MO,1
+648,Midwest,West North Central,MO,3
+647,Midwest,West North Central,MO,2
+646,Midwest,West North Central,MO,1
+641,Midwest,West North Central,MO,16
+640,Midwest,West North Central,MO,12
+639,Midwest,West North Central,MO,3
+638,Midwest,West North Central,MO,3
+637,Midwest,West North Central,MO,2
+636,Midwest,West North Central,MO,5
+635,Midwest,West North Central,MO,1
+634,Midwest,West North Central,MO,1
+633,Midwest,West North Central,MO,5
+631,Midwest,West North Central,MO,28
+630,Midwest,West North Central,MO,18
+629,Midwest,East North Central,IL,11
+628,Midwest,East North Central,IL,7
+627,Midwest,East North Central,IL,9
+626,Midwest,East North Central,IL,12
+625,Midwest,East North Central,IL,13
+624,Midwest,East North Central,IL,5
+623,Midwest,East North Central,IL,1
+622,Midwest,East North Central,IL,13
+620,Midwest,East North Central,IL,7
+619,Midwest,East North Central,IL,6
+618,Midwest,East North Central,IL,10
+617,Midwest,East North Central,IL,13
+616,Midwest,East North Central,IL,8
+615,Midwest,East North Central,IL,10
+614,Midwest,East North Central,IL,3
+613,Midwest,East North Central,IL,7
+612,Midwest,East North Central,IL,10
+611,Midwest,East North Central,IL,10
+610,Midwest,East North Central,IL,12
+609,Midwest,East North Central,IL,10
+607,Midwest,East North Central,IL,6
+606,Midwest,East North Central,IL,113
+605,Midwest,East North Central,IL,81
+604,Midwest,East North Central,IL,84
+603,Midwest,East North Central,IL,5
+602,Midwest,East North Central,IL,6
+601,Midwest,East North Central,IL,66
+600,Midwest,East North Central,IL,83
+599,West,Mountain,MT,9
+598,West,Mountain,MT,4
+597,West,Mountain,MT,6
+596,West,Mountain,MT,2
+594,West,Mountain,MT,5
+593,West,Mountain,MT,1
+592,West,Mountain,MT,1
+591,West,Mountain,MT,9
+587,Midwest,West North Central,ND,1
+585,Midwest,West North Central,ND,1
+582,Midwest,West North Central,ND,1
+581,Midwest,West North Central,ND,2
+577,Midwest,West North Central,SD,1
+574,Midwest,West North Central,SD,1
+570,Midwest,West North Central,SD,2
+567,Midwest,West North Central,MN,6
+566,Midwest,West North Central,MN,6
+565,Midwest,West North Central,MN,19
+564,Midwest,West North Central,MN,7
+563,Midwest,West North Central,MN,18
+562,Midwest,West North Central,MN,14
+561,Midwest,West North Central,MN,6
+560,Midwest,West North Central,MN,29
+559,Midwest,West North Central,MN,18
+558,Midwest,West North Central,MN,6
+557,Midwest,West North Central,MN,10
+554,Midwest,West North Central,MN,35
+553,Midwest,West North Central,MN,50
+551,Midwest,West North Central,MN,32
+550,Midwest,West North Central,MN,37
+549,Midwest,East North Central,WI,23
+548,Midwest,East North Central,WI,3
+547,Midwest,East North Central,WI,7
+546,Midwest,East North Central,WI,3
+545,Midwest,East North Central,WI,2
+544,Midwest,East North Central,WI,3
+543,Midwest,East North Central,WI,7
+542,Midwest,East North Central,WI,13
+541,Midwest,East North Central,WI,10
+540,Midwest,East North Central,WI,1
+539,Midwest,East North Central,WI,4
+537,Midwest,East North Central,WI,4
+535,Midwest,East North Central,WI,20
+534,Midwest,East North Central,WI,1
+532,Midwest,East North Central,WI,16
+531,Midwest,East North Central,WI,26
+530,Midwest,East North Central,WI,16
+528,Midwest,West North Central,IA,2
+527,Midwest,West North Central,IA,4
+525,Midwest,West North Central,IA,3
+524,Midwest,West North Central,IA,3
+523,Midwest,West North Central,IA,3
+522,Midwest,West North Central,IA,6
+520,Midwest,West North Central,IA,4
+516,Midwest,West North Central,IA,2
+515,Midwest,West North Central,IA,3
+514,Midwest,West North Central,IA,1
+512,Midwest,West North Central,IA,1
+511,Midwest,West North Central,IA,5
+510,Midwest,West North Central,IA,1
+507,Midwest,West North Central,IA,3
+506,Midwest,West North Central,IA,1
+505,Midwest,West North Central,IA,5
+504,Midwest,West North Central,IA,8
+503,Midwest,West North Central,IA,6
+502,Midwest,West North Central,IA,2
+501,Midwest,West North Central,IA,2
+500,Midwest,West North Central,IA,3
+499,Midwest,East North Central,MI,7
+498,Midwest,East North Central,MI,14
+497,Midwest,East North Central,MI,16
+496,Midwest,East North Central,MI,16
+495,Midwest,East North Central,MI,28
+494,Midwest,East North Central,MI,37
+493,Midwest,East North Central,MI,31
+492,Midwest,East North Central,MI,30
+491,Midwest,East North Central,MI,7
+490,Midwest,East North Central,MI,42
+489,Midwest,East North Central,MI,7
+488,Midwest,East North Central,MI,39
+487,Midwest,East North Central,MI,8
+486,Midwest,East North Central,MI,21
+485,Midwest,East North Central,MI,13
+484,Midwest,East North Central,MI,30
+483,Midwest,East North Central,MI,74
+482,Midwest,East North Central,MI,77
+481,Midwest,East North Central,MI,102
+480,Midwest,East North Central,MI,85
+479,Midwest,East North Central,IN,7
+478,Midwest,East North Central,IN,5
+477,Midwest,East North Central,IN,1
+476,Midwest,East North Central,IN,2
+475,Midwest,East North Central,IN,3
+474,Midwest,East North Central,IN,6
+473,Midwest,East North Central,IN,9
+472,Midwest,East North Central,IN,9
+471,Midwest,East North Central,IN,15
+470,Midwest,East North Central,IN,7
+469,Midwest,East North Central,IN,13
+468,Midwest,East North Central,IN,9
+467,Midwest,East North Central,IN,10
+466,Midwest,East North Central,IN,5
+465,Midwest,East North Central,IN,19
+464,Midwest,East North Central,IN,6
+463,Midwest,East North Central,IN,29
+462,Midwest,East North Central,IN,50
+461,Midwest,East North Central,IN,27
+460,Midwest,East North Central,IN,30
+458,Midwest,East North Central,OH,14
+457,Midwest,East North Central,OH,11
+456,Midwest,East North Central,OH,11
+455,Midwest,East North Central,OH,5
+454,Midwest,East North Central,OH,29
+453,Midwest,East North Central,OH,36
+452,Midwest,East North Central,OH,32
+451,Midwest,East North Central,OH,13
+450,Midwest,East North Central,OH,20
+449,Midwest,East North Central,OH,8
+448,Midwest,East North Central,OH,22
+447,Midwest,East North Central,OH,11
+446,Midwest,East North Central,OH,22
+445,Midwest,East North Central,OH,15
+444,Midwest,East North Central,OH,12
+443,Midwest,East North Central,OH,20
+442,Midwest,East North Central,OH,30
+441,Midwest,East North Central,OH,59
+440,Midwest,East North Central,OH,52
+439,Midwest,East North Central,OH,6
+438,Midwest,East North Central,OH,4
+437,Midwest,East North Central,OH,12
+436,Midwest,East North Central,OH,19
+435,Midwest,East North Central,OH,13
+434,Midwest,East North Central,OH,11
+433,Midwest,East North Central,OH,8
+432,Midwest,East North Central,OH,38
+431,Midwest,East North Central,OH,18
+430,Midwest,East North Central,OH,48
+427,South,East South Central,KY,9
+426,South,East South Central,KY,3
+425,South,East South Central,KY,2
+424,South,East South Central,KY,4
+423,South,East South Central,KY,8
+422,South,East South Central,KY,6
+421,South,East South Central,KY,11
+420,South,East South Central,KY,6
+418,South,East South Central,KY,1
+417,South,East South Central,KY,2
+416,South,East South Central,KY,1
+415,South,East South Central,KY,2
+414,South,East South Central,KY,2
+413,South,East South Central,KY,2
+412,South,East South Central,KY,2
+411,South,East South Central,KY,5
+410,South,East South Central,KY,20
+409,South,East South Central,KY,4
+408,South,East South Central,KY,2
+407,South,East South Central,KY,7
+406,South,East South Central,KY,3
+405,South,East South Central,KY,26
+404,South,East South Central,KY,13
+403,South,East South Central,KY,9
+402,South,East South Central,KY,38
+401,South,East South Central,KY,7
+400,South,East South Central,KY,12
+398,South,South Atlantic,GA,7
+397,South,East South Central,MS,1
+396,South,East South Central,MS,2
+395,South,East South Central,MS,6
+394,South,East South Central,MS,5
+393,South,East South Central,MS,2
+392,South,East South Central,MS,8
+391,South,East South Central,MS,9
+390,South,East South Central,MS,10
+389,South,East South Central,MS,3
+388,South,East South Central,MS,2
+387,South,East South Central,MS,3
+386,South,East South Central,MS,9
+385,South,East South Central,TN,4
+384,South,East South Central,TN,5
+383,South,East South Central,TN,4
+382,South,East South Central,TN,3
+381,South,East South Central,TN,12
+380,South,East South Central,TN,5
+379,South,East South Central,TN,4
+378,South,East South Central,TN,8
+377,South,East South Central,TN,6
+376,South,East South Central,TN,4
+374,South,East South Central,TN,2
+373,South,East South Central,TN,2
+372,South,East South Central,TN,3
+371,South,East South Central,TN,11
+370,South,East South Central,TN,9
+368,South,East South Central,AL,5
+366,South,East South Central,AL,2
+365,South,East South Central,AL,4
+363,South,East South Central,AL,1
+361,South,East South Central,AL,1
+359,South,East South Central,AL,2
+358,South,East South Central,AL,3
+357,South,East South Central,AL,2
+356,South,East South Central,AL,4
+354,South,East South Central,AL,1
+352,South,East South Central,AL,4
+351,South,East South Central,AL,1
+350,South,East South Central,AL,4
+349,South,South Atlantic,FL,12
+347,South,South Atlantic,FL,14
+346,South,South Atlantic,FL,20
+344,South,South Atlantic,FL,5
+342,South,South Atlantic,FL,28
+341,South,South Atlantic,FL,4
+339,South,South Atlantic,FL,20
+338,South,South Atlantic,FL,18
+337,South,South Atlantic,FL,25
+336,South,South Atlantic,FL,26
+335,South,South Atlantic,FL,18
+334,South,South Atlantic,FL,31
+333,South,South Atlantic,FL,14
+332,South,South Atlantic,FL,1
+331,South,South Atlantic,FL,69
+330,South,South Atlantic,FL,55
+329,South,South Atlantic,FL,13
+328,South,South Atlantic,FL,24
+327,South,South Atlantic,FL,14
+326,South,East South Central,KY,1
+325,South,South Atlantic,FL,9
+324,South,South Atlantic,FL,7
+323,South,South Atlantic,FL,7
+322,South,South Atlantic,FL,24
+321,South,South Atlantic,FL,9
+320,South,South Atlantic,FL,11
+319,South,South Atlantic,GA,6
+318,South,South Atlantic,GA,3
+317,South,South Atlantic,GA,26
+316,South,South Atlantic,GA,9
+315,South,South Atlantic,GA,21
+314,South,South Atlantic,GA,19
+313,South,South Atlantic,GA,8
+312,South,South Atlantic,GA,5
+310,South,South Atlantic,GA,26
+309,South,South Atlantic,GA,10
+308,South,South Atlantic,GA,6
+307,South,South Atlantic,GA,12
+306,South,South Atlantic,GA,22
+305,South,South Atlantic,GA,24
+304,South,South Atlantic,GA,11
+303,South,South Atlantic,GA,43
+302,South,South Atlantic,GA,43
+301,South,South Atlantic,GA,46
+300,South,South Atlantic,GA,95
+299,South,South Atlantic,SC,4
+298,South,South Atlantic,SC,6
+297,South,South Atlantic,SC,10
+296,South,South Atlantic,SC,18
+295,South,South Atlantic,SC,8
+294,South,South Atlantic,SC,9
+293,South,South Atlantic,SC,5
+292,South,South Atlantic,SC,7
+291,South,South Atlantic,SC,8
+290,South,South Atlantic,SC,8
+288,South,South Atlantic,NC,2
+287,South,South Atlantic,NC,9
+286,South,South Atlantic,NC,6
+285,South,South Atlantic,NC,4
+284,South,South Atlantic,NC,7
+283,South,South Atlantic,NC,11
+282,South,South Atlantic,NC,16
+281,South,South Atlantic,NC,6
+280,South,South Atlantic,NC,13
+279,South,South Atlantic,NC,4
+278,South,South Atlantic,NC,5
+277,South,South Atlantic,NC,3
+276,South,South Atlantic,NC,8
+275,South,South Atlantic,NC,16
+274,South,South Atlantic,NC,5
+273,South,South Atlantic,NC,2
+272,South,South Atlantic,NC,9
+271,South,South Atlantic,NC,6
+270,South,South Atlantic,NC,6
+267,South,South Atlantic,WV,2
+265,South,South Atlantic,WV,1
+264,South,South Atlantic,WV,1
+262,South,South Atlantic,WV,3
+260,South,South Atlantic,WV,2
+259,South,South Atlantic,WV,2
+256,South,South Atlantic,WV,1
+254,South,South Atlantic,WV,1
+253,South,South Atlantic,WV,1
+252,South,South Atlantic,WV,1
+251,South,South Atlantic,WV,1
+248,South,South Atlantic,WV,3
+246,South,South Atlantic,VA,5
+245,South,South Atlantic,VA,13
+244,South,South Atlantic,VA,5
+243,South,South Atlantic,VA,5
+242,South,South Atlantic,VA,5
+241,South,South Atlantic,VA,10
+240,South,South Atlantic,VA,13
+239,South,South Atlantic,VA,7
+238,South,South Atlantic,VA,20
+237,South,South Atlantic,VA,2
+236,South,South Atlantic,VA,15
+235,South,South Atlantic,VA,12
+234,South,South Atlantic,VA,24
+233,South,South Atlantic,VA,12
+232,South,South Atlantic,VA,22
+231,South,South Atlantic,VA,14
+230,South,South Atlantic,VA,14
+229,South,South Atlantic,VA,8
+228,South,South Atlantic,VA,9
+227,South,South Atlantic,VA,4
+226,South,South Atlantic,VA,6
+225,South,South Atlantic,VA,3
+224,South,South Atlantic,VA,7
+223,South,South Atlantic,VA,5
+222,South,South Atlantic,VA,4
+221,South,South Atlantic,VA,13
+220,South,South Atlantic,VA,10
+217,South,South Atlantic,MD,7
+216,South,South Atlantic,MD,2
+215,South,South Atlantic,MD,3
+212,South,South Atlantic,MD,9
+211,South,South Atlantic,MD,6
+210,South,South Atlantic,MD,6
+209,South,South Atlantic,MD,3
+208,South,South Atlantic,MD,7
+207,South,South Atlantic,MD,7
+206,South,South Atlantic,MD,3
+201,South,South Atlantic,VA,20
+200,South,South Atlantic,DC,15
+199,South,South Atlantic,DE,15
+198,South,South Atlantic,DE,4
+197,South,South Atlantic,DE,3
+196,Northeast,Middle Atlantic,PA,5
+195,Northeast,Middle Atlantic,PA,3
+194,Northeast,Middle Atlantic,PA,30
+193,Northeast,Middle Atlantic,PA,12
+191,Northeast,Middle Atlantic,PA,72
+190,Northeast,Middle Atlantic,PA,45
+189,Northeast,Middle Atlantic,PA,23
+187,Northeast,Middle Atlantic,PA,2
+186,Northeast,Middle Atlantic,PA,9
+185,Northeast,Middle Atlantic,PA,3
+184,Northeast,Middle Atlantic,PA,5
+183,Northeast,Middle Atlantic,PA,10
+182,Northeast,Middle Atlantic,PA,4
+181,Northeast,Middle Atlantic,PA,7
+180,Northeast,Middle Atlantic,PA,19
+179,Northeast,Middle Atlantic,PA,3
+178,Northeast,Middle Atlantic,PA,7
+177,Northeast,Middle Atlantic,PA,6
+176,Northeast,Middle Atlantic,PA,4
+175,Northeast,Middle Atlantic,PA,8
+174,Northeast,Middle Atlantic,PA,3
+173,Northeast,Middle Atlantic,PA,10
+172,Northeast,Middle Atlantic,PA,3
+171,Northeast,Middle Atlantic,PA,6
+170,Northeast,Middle Atlantic,PA,16
+169,Northeast,Middle Atlantic,PA,1
+168,Northeast,Middle Atlantic,PA,2
+166,Northeast,Middle Atlantic,PA,2
+165,Northeast,Middle Atlantic,PA,7
+164,Northeast,Middle Atlantic,PA,3
+163,Northeast,Middle Atlantic,PA,1
+162,Northeast,Middle Atlantic,PA,1
+161,Northeast,Middle Atlantic,PA,2
+160,Northeast,Middle Atlantic,PA,3
+159,Northeast,Middle Atlantic,PA,1
+158,Northeast,Middle Atlantic,PA,1
+157,Northeast,Middle Atlantic,PA,1
+156,Northeast,Middle Atlantic,PA,7
+154,Northeast,Middle Atlantic,PA,1
+152,Northeast,Middle Atlantic,PA,8
+151,Northeast,Middle Atlantic,PA,8
+150,Northeast,Middle Atlantic,PA,3
+149,Northeast,Middle Atlantic,NY,1
+148,Northeast,Middle Atlantic,NY,5
+147,Northeast,Middle Atlantic,NY,5
+146,Northeast,Middle Atlantic,NY,17
+145,Northeast,Middle Atlantic,NY,10
+144,Northeast,Middle Atlantic,NY,5
+143,Northeast,Middle Atlantic,NY,5
+142,Northeast,Middle Atlantic,NY,44
+141,Northeast,Middle Atlantic,NY,20
+140,Northeast,Middle Atlantic,NY,36
+139,Northeast,Middle Atlantic,NY,1
+138,Northeast,Middle Atlantic,NY,6
+137,Northeast,Middle Atlantic,NY,4
+136,Northeast,Middle Atlantic,NY,8
+135,Northeast,Middle Atlantic,NY,2
+134,Northeast,Middle Atlantic,NY,6
+133,Northeast,Middle Atlantic,NY,3
+132,Northeast,Middle Atlantic,NY,6
+131,Northeast,Middle Atlantic,NY,2
+130,Northeast,Middle Atlantic,NY,5
+129,Northeast,Middle Atlantic,NY,3
+128,Northeast,Middle Atlantic,NY,15
+127,Northeast,Middle Atlantic,NY,6
+126,Northeast,Middle Atlantic,NY,2
+125,Northeast,Middle Atlantic,NY,21
+124,Northeast,Middle Atlantic,NY,9
+123,Northeast,Middle Atlantic,NY,10
+122,Northeast,Middle Atlantic,NY,12
+121,Northeast,Middle Atlantic,NY,20
+120,Northeast,Middle Atlantic,NY,23
+119,Northeast,Middle Atlantic,NY,10
+118,West,Mountain,AZ,1
+117,Northeast,Middle Atlantic,NY,56
+116,Northeast,Middle Atlantic,NY,6
+115,Northeast,Middle Atlantic,NY,28
+114,Northeast,Middle Atlantic,NY,40
+113,Northeast,Middle Atlantic,NY,57
+112,Northeast,Middle Atlantic,NY,142
+111,Northeast,Middle Atlantic,NY,10
+110,Northeast,Middle Atlantic,NY,12
+109,Northeast,Middle Atlantic,NY,12
+108,Northeast,Middle Atlantic,NY,6
+107,Northeast,Middle Atlantic,NY,11
+106,Northeast,Middle Atlantic,NY,4
+105,Northeast,Middle Atlantic,NY,24
+104,Northeast,Middle Atlantic,NY,81
+103,Northeast,Middle Atlantic,NY,30
+101,Northeast,Middle Atlantic,NY,2
