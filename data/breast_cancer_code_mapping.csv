@@ -1,0 +1,48 @@
+breast_cancer_diagnosis_desc,breast_cancer_diagnosis_code,diagnose,location,left/right,
+Malignant neoplasm of central portion of female breast,1741,Malignant neoplasm,central,unknown,female
+Malignant neoplasm of upper-inner quadrant of female breast,1742,Malignant neoplasm,upper-inner quadrant,unknown,female
+Malignant neoplasm of lower-inner quadrant of female breast,1743,Malignant neoplasm,lower-inner quadrant,unknown,female
+Malignant neoplasm of upper-outer quadrant of female breast,1744,Malignant neoplasm,upper-outer quadrant,unknown,female
+Malignant neoplasm of lower-outer quadrant of female breast,1745,Malignant neoplasm,lower-outer quadrant,unknown,female
+Malignant neoplasm of axillary tail of female breast,1746,Malignant neoplasm,axillary tail,unknown,female
+Malignant neoplasm of other specified sites of female breast,1748,Malignant neoplasm,other specified sites,unknown,female
+"Malignant neoplasm of breast (female), unspecified",1749,Malignant neoplasm,unspecified,unknown,female
+Secondary malignant neoplasm of breast,19881,Secondary malignant neoplasm,unknown,unknown,female
+Malignant neoplasm of breast,C50,Malignant neoplasm,unknown,unknown,female
+"Malignant neoplasm of nipple and areola, right female breast",C50011,Malignant neoplasm,nipple and areola,right,female
+"Malignant neoplasm of nipple and areola, left female breast",C50012,Malignant neoplasm,nipple and areola,left,female
+"Malignant neoplasm of nipple and areola, unsp female breast",C50019,Malignant neoplasm,nipple and areola,unsp,female
+"Malignant neoplasm of nipple and areola, right male breast",C50021,Malignant neoplasm,nipple and areola,right,male
+"Malignant neoplasm of central portion of breast, female",C5011,Malignant neoplasm,central portion,central,female
+Malignant neoplasm of central portion of right female breast,C50111,Malignant neoplasm,central portion,right,female
+Malignant neoplasm of central portion of left female breast,C50112,Malignant neoplasm,central portion,left,female
+Malignant neoplasm of central portion of unsp female breast,C50119,Malignant neoplasm,central portion,central,female
+"Malignant neoplasm of upper-inner quadrant of breast, female",C5021,Malignant neoplasm,upper-inner quadrant,unknown,female
+Malig neoplm of upper-inner quadrant of right female breast,C50211,Malignant neoplasm,upper-inner quadrant,right,female
+Malig neoplasm of upper-inner quadrant of left female breast,C50212,Malignant neoplasm,upper-inner quadrant,left,female
+Malig neoplasm of upper-inner quadrant of unsp female breast,C50219,Malignant neoplasm,upper-inner quadrant,unknown,female
+"Malignant neoplasm of lower-inner quadrant of breast, female",C5031,Malignant neoplasm,lower-inner quadrant,unknown,female
+Malig neoplm of lower-inner quadrant of right female breast,C50311,Malignant neoplasm,lower-inner quadrant,right,female
+Malig neoplasm of lower-inner quadrant of left female breast,C50312,Malignant neoplasm,lower-inner quadrant,left,female
+Malig neoplasm of lower-inner quadrant of unsp female breast,C50319,Malignant neoplasm,lower-inner quadrant,unkow ,female
+"Malignant neoplasm of upper-outer quadrant of breast, female",C5041,Malignant neoplasm,upper-outer quadrant,"breast,",female
+Malig neoplm of upper-outer quadrant of right female breast,C50411,Malignant neoplasm,upper-outer quadrant,right,female
+Malig neoplasm of upper-outer quadrant of left female breast,C50412,Malignant neoplasm,upper-outer quadrant,left,female
+Malig neoplasm of upper-outer quadrant of unsp female breast,C50419,Malignant neoplasm,upper-outer quadrant,unknown,female
+"Malignant neoplasm of lower-outer quadrant of breast, female",C5051,Malignant neoplasm,lower-outer quadrant,"breast,",female
+Malig neoplm of lower-outer quadrant of right female breast,C50511,Malignant neoplasm,lower-outer quadrant,right,female
+Malig neoplasm of lower-outer quadrant of left female breast,C50512,Malignant neoplasm,lower-outer quadrant,left,female
+Malig neoplasm of lower-outer quadrant of unsp female breast,C50519,Malignant neoplasm,lower-outer quadrant,unknown,female
+Malignant neoplasm of axillary tail of right female breast,C50611,Malignant neoplasm,axillary tail,right,female
+Malignant neoplasm of axillary tail of left female breast,C50612,Malignant neoplasm,axillary tail,unknown,female
+Malignant neoplasm of axillary tail of unsp female breast,C50619,Malignant neoplasm,axillary tail,,female
+"Malignant neoplasm of overlapping sites of breast, female",C5081,Malignant neoplasm,overlapping sites,unknown,female
+Malignant neoplasm of ovrlp sites of right female breast,C50811,Malignant neoplasm,overlapping sites,right,female
+Malignant neoplasm of ovrlp sites of left female breast,C50812,Malignant neoplasm,overlapping sites,left,female
+Malignant neoplasm of ovrlp sites of unsp female breast,C50819,Malignant neoplasm,overlapping sites,unknown,female
+Malignant neoplasm of breast of unspecified site,C509,Malignant neoplasm,unspecified,unknown,unknown
+"Malignant neoplasm of breast of unspecified site, female",C5091,Malignant neoplasm,unspecified,unknown,female
+Malignant neoplasm of unsp site of right female breast,C50911,Malignant neoplasm,unspecified,right,female
+Malignant neoplasm of unspecified site of left female breast,C50912,Malignant neoplasm,unspecified,left,female
+Malignant neoplasm of unsp site of unspecified female breast,C50919,Malignant neoplasm,unspecified,unkonwn,female
+Malignant neoplasm of unsp site of unspecified male breast,C50929,Malignant neoplasm,unspecified,unknown,male

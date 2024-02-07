@@ -1,0 +1,7 @@
+patient_race,payer_type_grouped,num
+White,MEDICARE ADVANTAGE,912
+Other,COMMERCIAL,326
+Hispanic,MEDICAID,306
+Black,MEDICAID,396
+Asian,MEDICAID,111
+,COMMERCIAL,3467
